@@ -1,0 +1,6 @@
+crear archivo de codigo fuente en block de notas
+guardarlo con la extencion .asm y configuracion UTF-8
+instalar el emulator para ensambledor (TASM)
+abrir emulator
+utilizar el comando tasm <nombre del archivo con extencion .asm>
+revisar si el codigo corre (en caso contrario modificar errores)
